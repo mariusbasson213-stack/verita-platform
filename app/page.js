@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Verita Platform is Live</h1> 
+  return <h1>Verita Platform is Live</h1>  
 }
